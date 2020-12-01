@@ -3,6 +3,6 @@
 Projet pour faire de la reconnaissance auto du language
 
 Modèles utilisés :
-- Kaldi (via l'api vosk)
-- deepspeech
+- LINTO (français, via l'api vosk)
+- deepspeech (anglais usa)
 - ...

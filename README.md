@@ -20,4 +20,4 @@ Modules:
 * deepspeech (v9.1 anglais usa) : <link>
 
 ### Audio format
-Audio files should be WAV format mono PCM .
+Audio files should be WAV format mono PCM.

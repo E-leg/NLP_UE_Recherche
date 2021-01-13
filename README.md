@@ -1,9 +1,9 @@
 # NLP_UE_Recherche
 
-### Presentation
+## Presentation
 Projet pour faire de la reconnaissance auto du language
 
-### Requirements
+## Requirements
 Pyhton 3 with modules:
 * Vosk : <https://alphacephei.com/vosk/>
 * PyAudio

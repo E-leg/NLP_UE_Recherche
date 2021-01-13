@@ -1,8 +1,21 @@
 # NLP_UE_Recherche
 
+### Presentation
 Projet pour faire de la reconnaissance auto du language
 
-Modèles utilisés :
-- LINTO (français, via l'api vosk)
-- deepspeech (v9.1 anglais usa)
-- ...
+### Requirements
+Pyhton 3 with modules:
+* Vosk : <https://alphacephei.com/vosk/>
+* PyAudio
+* Sklearn 
+* Matplotlib
+* Numpy
+* Wave
+* Json
+
+Models used:
+* vosk-model-fr-0.6-linto-2.0.0 : <https://alphacephei.com/vosk/models>
+* vosk-model-spk-0.4 : <https://alphacephei.com/vosk/models>
+* deepspeech (v9.1 anglais usa) : <link>
+
+Audio files should be WAV format mono PCM 

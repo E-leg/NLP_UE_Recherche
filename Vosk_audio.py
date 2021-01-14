@@ -8,7 +8,7 @@ os.path.dirname(os.path.abspath(__file__))
 print("\nLoading...\n")
 
 # Get the audio
-wf = wave.open("Audio/Clement_deb.wav")
+wf = wave.open("Audio/Clement_extract.wav")
 
 # Get the model
 model = Model("Model")

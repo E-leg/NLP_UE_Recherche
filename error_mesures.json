@@ -1,1 +1,36 @@
-{"alexis": {"wer": 0.36015006252605253, "mer": 0.35717238528317485, "wil": 0.5027477120564747, "wip": 0.4972522879435252, "hits": 1555, "substitutions": 452, "deletions": 392, "insertions": 20}, "caitlyn": {"wer": 0.3766914011348756, "mer": 0.3673903788846318, "wil": 0.537274685032102, "wip": 0.4627253149678981, "hits": 1486, "substitutions": 539, "deletions": 266, "insertions": 58}, "clement1": {"wer": 0.457033125300048, "mer": 0.4469483568075117, "wil": 0.6246789232756114, "wip": 0.3753210767243886, "hits": 1178, "substitutions": 550, "deletions": 355, "insertions": 47}, "clement2": {"wer": 0.4313960455362493, "mer": 0.42328042328042326, "wil": 0.594222838202449, "wip": 0.405777161797551, "hits": 981, "substitutions": 408, "deletions": 280, "insertions": 32}}
+{"alexis": {"wer": 0.36015006252605253,
+            "mer": 0.35717238528317485,
+            "wil": 0.5027477120564747,
+            "wip": 0.4972522879435252,
+            "hits": 1555,
+            "substitutions": 452,
+            "deletions": 392,
+            "insertions": 20
+           },
+ "caitlyn": {"wer": 0.3766914011348756,
+             "mer": 0.3673903788846318,
+             "wil": 0.537274685032102,
+             "wip": 0.4627253149678981,
+             "hits": 1486,
+             "substitutions": 539,
+             "deletions": 266,
+             "insertions": 58},
+ "clement1": {"wer": 0.457033125300048,
+              "mer": 0.4469483568075117,
+              "wil": 0.6246789232756114,
+              "wip": 0.3753210767243886,
+              "hits": 1178,
+              "substitutions": 550,
+              "deletions": 355,
+              "insertions": 47
+             },
+ "clement2": {"wer": 0.4313960455362493,
+              "mer": 0.42328042328042326,
+              "wil": 0.594222838202449,
+              "wip": 0.405777161797551,
+              "hits": 981,
+              "substitutions": 408,
+              "deletions": 280,
+              "insertions": 32
+             }
+}

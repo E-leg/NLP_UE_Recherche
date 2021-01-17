@@ -12,7 +12,7 @@ Modules:
 * Matplotlib
 * Numpy
 * Pandas
-* Wave
+* Wave (Python built in package)
 * Json
 * JiWER <https://github.com/jitsi/jiwer/>
 * python-docx <https://github.com/python-openxml/python-docx>

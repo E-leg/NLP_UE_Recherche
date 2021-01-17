@@ -11,6 +11,7 @@ Modules:
 * Sklearn 
 * Matplotlib
 * Numpy
+* Pandas
 * Wave
 * Json
 * JiWER <https://github.com/jitsi/jiwer/>

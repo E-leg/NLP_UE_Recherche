@@ -1,7 +1,7 @@
 # NLP_UE_Recherche
 
 ## Presentation
-Projet pour faire de la reconnaissance auto du language
+This repository presents the codes used for a project on natural language processing of spontaneous speech during interviews. We mainly focus on the speech to text transcription of prerecorded interviews.
 
 ## Requirements
 ### Pyhton 3

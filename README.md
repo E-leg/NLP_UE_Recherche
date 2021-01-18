@@ -12,8 +12,6 @@ Modules:
 * Matplotlib
 * Numpy
 * Pandas
-* Wave (Python built in package)
-* Json (Python built in package)
 * JiWER <https://github.com/jitsi/jiwer/>
 * python-docx <https://github.com/python-openxml/python-docx>
 * num2words <https://github.com/savoirfairelinux/num2words>

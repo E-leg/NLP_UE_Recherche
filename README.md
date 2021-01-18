@@ -1,7 +1,7 @@
 # NLP_UE_Recherche
 
 ## Presentation
-This repository presents the codes used for a project on natural language processing of spontaneous speech during interviews. We focus on the speech to text transcription of prerecorded interviews.
+This repository presents the scripts used for a project on natural language processing of spontaneous speech during interviews. We focus on the speech to text transcription of prerecorded interviews.
 
 ## Requirements
 ### Pyhton 3

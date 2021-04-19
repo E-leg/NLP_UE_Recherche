@@ -4,7 +4,7 @@
 This repository presents the scripts used for a project on natural language processing of spontaneous speech during interviews. We focus on the speech to text transcription of prerecorded interviews.
 
 ## Requirements
-### Pyhton 3
+### Python 3
 Modules:
 * Vosk : <https://alphacephei.com/vosk/>
 * PyAudio
